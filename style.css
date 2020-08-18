@@ -1,18 +1,17 @@
+/* Global CSS Start */
 .container {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
 }
+/* Global CSS End */
 
+/* Header Start */
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 0.8em;
-}
-
-.header .logo {
-    /* margin-right: 180px; */
 }
 
 .header .menu-icon {
@@ -117,6 +116,7 @@
 .buy-theme:hover {
     background: #3a3a3a;
 }
+/* Header End */
 
 /* Hero Start */
 .slider {
